@@ -1,7 +1,7 @@
  👋 Hi, I’m @ashrinc
  👀 I’m interested in creating software projects
  🌱 I’m currently learning web development
- 📫 can catch me up on my email chanugundladivyaashritha@gmail.com
+ 📫 can catch me up on my email ashrithadc@gmail.com
 ⚡ Fun fact:-The mouse can scroll from left and right also.
 
 <!---
